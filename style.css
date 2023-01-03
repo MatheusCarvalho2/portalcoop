@@ -706,3 +706,8 @@ iframe{
   font: 400 1rem var(--body-font);
   color: var(--text-color);
 }
+
+
+.arrowup{
+  height: 1rem;
+}
