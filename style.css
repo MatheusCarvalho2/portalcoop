@@ -673,11 +673,18 @@ footer .social a:hover {
     --subtitle-font-size: 1.125rem;
   }
   iframe{
-    max-width: 18rem;
+    max-width: 9rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
 
   .grid {
     display: block;
+  }
+
+  .emailspace{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
   
 }
@@ -694,8 +701,8 @@ footer .social a:hover {
 }
 
 iframe{
-  min-width: 100%;
-  min-height: 100%;
+  min-width: 200%;
+  min-height: 20rem;
 
 }
 
