@@ -711,3 +711,11 @@ iframe{
 .arrowup{
   width: 1rem;
 }
+
+.contactdirect{
+  color: var(--text-color)
+}
+
+.contactdirect:hover{
+  color: blue;
+}
